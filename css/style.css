@@ -2,6 +2,7 @@ header{
     height: 10vh;
     background-color: #b8cfec;
 }
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -18,12 +19,11 @@ ul {
     color: white;
     text-align: center;
     padding: 14px 16px;
-    margin-top: 5px;
     text-decoration: none;
   }
+  
 .myclass{
-    height: 500px;
-    padding-right: 15rem;
+    height: 100vh;
 }
 
 #hero{
